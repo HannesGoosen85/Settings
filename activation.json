@@ -1,12 +1,12 @@
 {
   "approved": [
-    {
+   
+  ],
+  "revoked": [
+     {
       "id": "a1e426db-0ab1-4ced-801e-82395de82492",
       "name": "Test App"
     }
-  ],
-  "revoked": [
-    
   ],
   "latest_version": "1.0.0"
 }
